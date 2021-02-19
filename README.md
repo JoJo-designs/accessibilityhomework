@@ -7,6 +7,7 @@ Goal: take a pre-built website and make it more accessiable.
 Changes made to working files include.
 Changed title of webpage from 'website' to 'horiseon SEO'.
 Fixed a link in the header.
+changed div tags to more approtiate tags
 Added comments in the HTML to aid in readabiltiy.
 Add 'Alt' tages to images.
 Add comments to the css to add in readability.
